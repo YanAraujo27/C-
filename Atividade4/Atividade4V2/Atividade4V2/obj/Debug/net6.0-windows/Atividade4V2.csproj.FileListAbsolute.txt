@@ -1,0 +1,17 @@
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\bin\Debug\net6.0-windows\Atividade4V2.exe
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\bin\Debug\net6.0-windows\Atividade4V2.deps.json
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\bin\Debug\net6.0-windows\Atividade4V2.runtimeconfig.json
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\bin\Debug\net6.0-windows\Atividade4V2.dll
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\bin\Debug\net6.0-windows\Atividade4V2.pdb
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.csproj.AssemblyReference.cache
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.rbEngeneering.resources
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.csproj.GenerateResource.cache
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.AssemblyInfoInputs.cache
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.AssemblyInfo.cs
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.csproj.CoreCompileInputs.cache
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.dll
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\refint\Atividade4V2.dll
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.pdb
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\Atividade4V2.genruntimeconfig.cache
+C:\Users\yanar\OneDrive\Área de Trabalho\faculdade\C#\Atividade4V2\Atividade4V2\obj\Debug\net6.0-windows\ref\Atividade4V2.dll
